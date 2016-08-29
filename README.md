@@ -1,0 +1,2 @@
+# sdc
+for android application 
